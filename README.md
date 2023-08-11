@@ -6,7 +6,7 @@
   A passionate Front End Developer specializing in React.js. With a keen eye for design and a knack for creating seamless user experiences, I love bringing web applications to life and making them both functional and visually appealing, strong background in Web development. Enthusiastic about Web technologies and highly motivated to collaborate within a team environment
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <a href="https://twitter.com/Ahmed_ss_Dahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahme_ss_Dahy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-dahy007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-dahy007" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006639699366&mibextid=b06tZ0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eyad.hamza.1/" height="30" width="40" /></a>
