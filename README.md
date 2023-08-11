@@ -17,4 +17,5 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Babel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
+<img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
+<img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
