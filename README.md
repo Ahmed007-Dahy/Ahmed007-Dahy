@@ -14,7 +14,8 @@
 <hr>
 
 ### 🧰 Languages and Tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<div align="left">
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,3 +28,4 @@
 <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+</div>
