@@ -30,5 +30,5 @@
 <img align="left" alt="PhotoShop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img align="left" alt="Notion" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
  <img align="left" alt="Vue" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
- <img align="left" alt="Nuxt" width="60px" src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_027fvc5mclmb1.png" />
+ <img align="left" alt="Nuxt" width="50px" src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_027fvc5mclmb1.png" />
 </div>
