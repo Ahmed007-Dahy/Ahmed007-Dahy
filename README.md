@@ -29,4 +29,5 @@
 <img align="left" alt="WebStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
 <img align="left" alt="PhotoShop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img align="left" alt="Notion" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+ <img align="left" alt="Notion" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
 </div>
