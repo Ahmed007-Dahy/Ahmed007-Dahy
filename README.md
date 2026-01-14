@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dahy</h1>
-<h3 align="center">Front-End Developer • Vue 3 / Nuxt 3 • React • TypeScript</h3>
+<h3>Front-End Developer • Vue 3 / Nuxt 3 • React • TypeScript</h3>
 
-<p align="center">
+<p>
   Front-End Developer focused on building scalable, high-performance web applications with clean UI architecture and strong UX.
   I specialize in Vue 3 / Nuxt 3 and React, and I enjoy building dashboards, workflow systems, and data-driven products.
 </p>
