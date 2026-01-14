@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dahy</h1>
-<h3 align="center">Front-End Developer • React.js • Vue.js</h3>
+<h3 align="center">Front-End Developer • Vue 3 / Nuxt 3 • React • TypeScript</h3>
 
 <p align="center">
-  I build modern, responsive web applications with a strong focus on UI/UX, performance, and clean, maintainable code.
-  I enjoy turning designs into polished, accessible interfaces and collaborating with teams to ship great products.
+  Front-End Developer focused on building scalable, high-performance web applications with clean UI architecture and strong UX.
+  I specialize in Vue 3 / Nuxt 3 and React, and I enjoy building dashboards, workflow systems, and data-driven products.
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/Ahmed_ss_Dahy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-dahy007" target="_blank">
+  <a href="www.linkedin.com/in/ahmed-dahyy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100006639699366&mibextid=b06tZ0" target="_blank">
@@ -20,48 +17,121 @@
 
 ---
 
-## 👨‍💻 About Me
-- ⚛️ Building scalable front-end apps with **React.js** and **Vue.js**
-- 🎨 Passionate about **design systems**, **UI consistency**, and **smooth user experiences**
-- 🧠 Always improving in **clean architecture**, **state management**, and **performance optimization**
-- 🤝 Enjoy working in teams, reviewing code, and shipping features that matter
+## 🔎 Professional Focus
+- Building **enterprise dashboards** and **business systems** (KPIs, workflows, projects, ATS, performance, meetings)
+- Strong in **UI architecture**, **component reusability**, and **state management**
+- Passionate about **performance**, **clean code**, and **consistent design systems**
+- Tech stack: **Vue 3 / Nuxt 3**, **TypeScript**, **Tailwind CSS**, **Sass**, **Pinia**, **Axios**, **Vitest**
 
 ---
 
 ## 🧰 Tech Stack
 
-### Core
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Core**
+- HTML5 • CSS3 • Sass • JavaScript • TypeScript
 
-### Frameworks & State
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+**Frameworks**
+- Vue 3 • Nuxt 3 • React
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=000)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+**State / Forms / Routing**
+- Pinia • Vue Router • Vee-Validate • Yup
+
+**Testing & Tools**
+- Vitest • Git • GitHub • Axios • i18n • Swiper
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact" />
-</p>
+## 🚀 Featured Projects (Selected Work)
+
+> Many projects are enterprise/private. Descriptions below highlight impact and responsibilities.
+
+### 1) Strategy Management System
+- Designed and delivered executive dashboards to manage organizational strategy, objectives, KPIs, and initiatives in one place.
+- Implemented real-time KPI tracking with progress visualization, trend insights, and drill-down views to support faster decision-making.
+- Improved strategic alignment by connecting goals to initiatives, owners, and measurable outcomes with clear status reporting.  
+**Tech:** Vue 3, JavaScript, TypeScript, Tailwind CSS, Sass
 
 ---
 
-## 🤝 Let’s Connect 
+### 2) Project Management System
+- Built an end-to-end platform covering planning, milestones, task dependencies, ownership, and team collaboration.
+- Developed timeline and dependency logic to support structured execution, impact analysis, and reliable delivery tracking.
+- Enhanced productivity with clear prioritization, status visibility, and consistent workflows across projects.  
+**Tech:** Vue 3, JavaScript, TypeScript, Tailwind CSS, Sass
+
+---
+
+### 3) Workflow Management System
+- Implemented a configurable workflow engine to automate business processes, approvals, and task transitions across multiple scenarios.
+- Built reusable UI components and rule-based logic to support dynamic steps, roles, conditions, and routing.
+- Ensured maintainability by standardizing workflow patterns and building blocks across the system.  
+**Tech:** Vue 3, JavaScript, TypeScript, Tailwind CSS, Sass
+
+---
+
+### 4) Meetings Management System
+- Developed a meeting solution supporting scheduling, agendas, attendance tracking, minutes, and action items.
+- Connected meetings with tasks and follow-ups to improve accountability, execution, and cross-team communication.
+- Streamlined the meeting lifecycle with structured tracking for decisions and next steps.  
+**Tech:** Vue 3, JavaScript, TypeScript, Tailwind CSS, Sass
+
+---
+
+### 5) ATS (Applicant Tracking System)
+- Delivered recruitment modules for job postings, candidate pipelines, screening, and interview stages with clear status progression.
+- Built dynamic forms and user-friendly workflows to improve recruiter efficiency and candidate experience.
+- Enabled structured tracking and reporting across the hiring funnel to support better hiring decisions.  
+**Tech:** Vue 3, JavaScript, TypeScript, Tailwind CSS, Sass
+
+---
+
+### 6) Performance Management System (PMS)
+- Implemented performance workflows: goal setting, periodic reviews, feedback cycles, and manager/employee sign-off.
+- Built clear visualizations and intuitive flows to support transparency, adoption, and consistent review execution.
+- Improved reporting and tracking of outcomes to support HR and leadership decisions.  
+**Tech:** Vue 3, JavaScript, TypeScript, Tailwind CSS, Sass
+
+---
+
+### 7) API Engine
+- Integrated multiple frontend products with backend services via RESTful APIs with consistent, scalable communication.
+- Implemented authentication flows, centralized error handling, and response normalization for reliable UI behavior.
+- Standardized API consumption patterns and request lifecycle management for maintainability.  
+**Tech:** Vue 3, JavaScript, Sass, Axios, REST APIs
+
+---
+
+### 8) Yseer Dashboard
+- Developed a scalable platform enabling product sales, marketing, logistics, and financial operations by connecting buyers and sellers.
+- Built an admin dashboard for product listings, users, markets, profiles, and financial transactions.
+- Focused on modular UI architecture, performance optimization, and maintainable structure using modern patterns and testing.  
+**Tech:** Vue 3, TypeScript, Tailwind CSS, Vitest, Atomic Design, Pinia, Vee-Validate + Yup, Swiper, i18n, Vue Router
+
+---
+
+### 9) To-Do App
+- Add tasks through a quick form.
+- Move tasks across stages: **Not Started → In Progress → Done** (buttons or drag-and-drop).
+- Edit task titles and descriptions for better usability.  
+**Tech:** React, TypeScript, Context API
+
+---
+
+### 10) Maamoun2 (E-commerce)
+- Developed the official e-commerce platform for Maamoun Electronics, focused on modern electronics and accessories.
+- Built a smooth product browsing experience with reusable UI and scalable structure.  
+**Tech:** Nuxt 3, Vue 3, Pinia, Swiper
+
+---
+
+## 📌 What I bring to a team
+- Building complex UIs with **clean component architecture**
+- Designing scalable patterns for **forms**, **tables**, and **dashboards**
+- Working with **REST APIs**, error handling, auth flows, and data normalization
+- Performance-minded development and maintainable front-end standards
+
+---
+
+## 📫 Contact
 - LinkedIn: www.linkedin.com/in/ahmed-dahyy
 - Facebook: https://www.facebook.com/profile.php?id=100006639699366&mibextid=b06tZ0
